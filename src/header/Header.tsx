@@ -7,10 +7,10 @@ function Header(){
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">Tere</a></li>
-                    <li><a href="#">Careca</a></li>
-                    <li><a href="#">Pobre</a></li>
-                    <li><a href="#">Coitado</a></li>
+                    <li><a href="/">Tere</a></li>
+                    <li><a href="/noticia">Careca</a></li>
+                    <li><a href="/sobre">Pobre</a></li>
+                    <li><a href="/contato">Coitado</a></li>
                 </ul>
             </nav>
         </header>
